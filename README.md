@@ -1,4 +1,7 @@
 # Hi there, I'm Vishal Gahlot! 👋
+## Animated GIF Example
+![Data Visualization GIF](https://media.giphy.com/media/aQCCNezRpb9Hq/giphy.gif)
+
 
 ## About Me
 - 🎓 I’m a Data Scientist.
