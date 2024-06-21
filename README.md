@@ -1,6 +1,6 @@
 # Hi there, I'm Vishal Gahlot! 👋
 
-![Data Visualization GIF](https://media.giphy.com/media/aQCCNezRpb9Hq/giphy.gif)
+![Sherlock Science GIF](https://media.tenor.com/images/abcdefg/tenor.gif)
 
 
 ## About Me
