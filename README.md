@@ -25,7 +25,6 @@ Here are some projects I've worked on:
 
 ## Get in Touch
 - LinkedIn: [linkedin.com/in/vishal-gahlot-79b273117](https://www.linkedin.com/in/vishal-gahlot-79b273117)
-- Twitter: [Your Twitter Handle]
 - Email: [visgah@gmail.com](mailto:visgah@gmail.com)
 
 ![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheDramaticSoul&show_icons=true&theme=radical)
