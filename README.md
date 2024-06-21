@@ -24,7 +24,7 @@ Here are some projects I've worked on:
 - [Sales Forecasting](GitHub Repo URL): Built a time series model to forecast future sales.
 
 ## Fun Fact
-⚡ Fun fact: I enjoy finding insights in messy data and turning them into actionable strategies!
+⚡ Did you know Sherlock Holmes was a master of deductive reasoning? Just like him, I enjoy deducing insights from complex datasets!
 
 ## Get in Touch
 - LinkedIn: [linkedin.com/in/vishal-gahlot-79b273117](https://www.linkedin.com/in/vishal-gahlot-79b273117)
